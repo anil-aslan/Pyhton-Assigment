@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMbhtC6geGFGQAGkReUBoUu",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/anil-aslan/Pyhton-Assigment/blob/main/Pyhton_assigment\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "shss2S02sFKw"
+      },
+      "source": [
+        "name2 = str(input(\"Enter a name :\"))\n",
+        " \n",
+        "name = \"Joseph\"\n",
+        " \n",
+        "if name2 == name  : \n",
+        "  print(\"Hello Joseph your pass dsf25\")\n",
+        "else : \n",
+        "  print(\"Hello, {} see you later\".format(name2))"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
